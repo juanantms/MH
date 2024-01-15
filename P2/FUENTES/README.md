@@ -1,5 +1,7 @@
 OPCIONES DE EJECUCIÓN:
 
+Es necesario crear las carpetas bin, lib y obj
+
 Debemos hacer 'make' para ejecutar el makefile.
 
 1º:
